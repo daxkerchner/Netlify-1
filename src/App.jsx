@@ -6,6 +6,7 @@ const cats = [
   { name: "Jack", breed: "Abyssinian", age: 12 },
   { name: "Kelly", breed: "Balinese", age: 5 },
   { name: "Tiger", breed: "Orange", age: 3 },
+  { name: "I think this is a cat", breed: "Tabby or something", age: 7 },
 ];
 
 function App() {
